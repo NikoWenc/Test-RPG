@@ -1,0 +1,31 @@
+body {
+  background-color: blue;
+}
+
+#game {
+  background-color: gray ;
+  padding: 10px;
+  margin: 0 30%;
+}
+
+#stats, #controls{
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#monsterStats, #playerInventory{
+  display: none;
+  border: 1px black solid;
+  color: white;
+  padding: 5px;
+  background-color: red;
+}
+.stat {
+  padding-right: 10px;
+}
+
+#text, #playerInventory {
+  background-color: black;
+  padding: 5px;
+  color: white;
+}
