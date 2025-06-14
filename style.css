@@ -1,11 +1,12 @@
 body {
   background-color: blue;
+  margin: 25% 25%;
 }
 
 #game {
   background-color: gray ;
   padding: 10px;
-  margin: 0 30%;
+  margin: 0 20%;
 }
 
 #stats, #controls{
