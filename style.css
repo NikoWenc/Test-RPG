@@ -1,7 +1,9 @@
 body {
   margin: 25% 25%;
   background-image: url(game-background.jpg);
-  background-size: cover; 
+  background-size: cover;
+  background-repeat: no-repeat;/* Prevent tiling */
+  background-position: center;
 }
 
 #game {
